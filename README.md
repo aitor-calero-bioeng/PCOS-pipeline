@@ -35,7 +35,7 @@ pcos-ml-predictor/
 ├── models/
 │   └── rf_pcos_model.joblib
 ├── .gitignore
-├── app.py
+├── PCOS_app.py
 ├── pcos.py
 ├── README.md
 └── requirements.txt
