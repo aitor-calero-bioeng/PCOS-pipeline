@@ -39,7 +39,7 @@ pcos-ml-predictor/
 ├── pcos.py
 ├── README.md
 └── requirements_PCOS.txt
-
+```
 ---
 
 ## Execution Guide
@@ -48,7 +48,7 @@ pcos-ml-predictor/
 Clone the repository and install the dependencies:
 
 ```bash
-git clone [https://github.com/aitor-calero-bioeng/PCOS-pipeline.git](https://github.com/aitor-calero-bioeng/PCOS-pipeline.git)
+git clone https://github.com/aitor-calero-bioeng/PCOS-pipeline
 cd PCOS-pipeline
 pip install -r requirements.txt
 
