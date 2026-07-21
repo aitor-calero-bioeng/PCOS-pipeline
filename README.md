@@ -38,4 +38,4 @@ pcos-ml-predictor/
 ├── PCOS_app.py
 ├── pcos.py
 ├── README.md
-└── requirements.txt
+└── requirements_PCOS.txt
