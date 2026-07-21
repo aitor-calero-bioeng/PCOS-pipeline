@@ -51,7 +51,7 @@ Clone the repository and install the dependencies:
 git clone https://github.com/aitor-calero-bioeng/PCOS-pipeline
 cd PCOS-pipeline
 pip install -r requirements.txt
-
+```
 ### 2. Model Training
 To run the data cleaning pipeline and train the Random Forest classifier from scratch:
 python PCOS.py
