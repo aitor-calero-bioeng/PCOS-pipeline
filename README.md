@@ -54,11 +54,17 @@ pip install -r requirements.txt
 ```
 ### 2. Model Training
 To run the data cleaning pipeline and train the Random Forest classifier from scratch:
+
+```bash
 python PCOS.py
+```
 
 ### 3. Run Web Dashboard
 To launch the interactive Streamlit clinical application locally:
+
+```bash
 streamlit run PCOS_app.py
+```
 
 
 
