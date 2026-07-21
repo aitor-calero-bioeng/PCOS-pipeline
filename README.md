@@ -39,3 +39,30 @@ pcos-ml-predictor/
 ├── pcos.py
 ├── README.md
 └── requirements_PCOS.txt
+
+---
+
+## Execution Guide
+
+### 1. Installation
+Clone the repository and install the dependencies:
+
+```bash
+git clone [https://github.com/aitor-calero-bioeng/PCOS-pipeline.git](https://github.com/aitor-calero-bioeng/PCOS-pipeline.git)
+cd PCOS-pipeline
+pip install -r requirements.txt
+
+### 2. Model Training
+To run the data cleaning pipeline and train the Random Forest classifier from scratch:
+python PCOS.py
+
+### 3. Run Web Dashboard
+To launch the interactive Streamlit clinical application locally:
+streamlit run PCOS_app.py
+
+
+
+
+
+
+
